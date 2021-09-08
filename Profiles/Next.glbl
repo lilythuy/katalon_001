@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Next</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://next.genetica.asia/'</initValue>
+      <name>Base_url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

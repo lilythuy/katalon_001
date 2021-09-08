@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy Service Before Log In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a8e6c28-fd6e-41c5-9cae-ba6c3e960c9a</testCaseGuid>
+   <variable>
+      <defaultValue>'Test A '</defaultValue>
+      <description></description>
+      <id>bce30e80-0134-4c3b-aa2d-6a69d794ab7c</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'new Date().getTime()'</defaultValue>
+      <description></description>
+      <id>cd4bf999-f94a-4874-88df-82d4de0486fb</id>
+      <masked>false</masked>
+      <name>time</name>
+   </variable>
+</TestCaseEntity>
